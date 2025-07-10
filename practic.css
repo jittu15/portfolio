@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+.BLANK{
+    height: 6PX;
+    width: 100%;
+    background-color: #04050a;
+}
+
+.div0{
+    height: 70px;
+    width: 100%;
+    color: white;
+     background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+     display: flex;
+     justify-content: center;
+     align-items: end;
+     font-size: 1.5rem;
+}
+
+
+
+.div1{
+    height: 580px;
+    width: 100%;
+    background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: right;
+    align-items: center;
+}
+
+.div3 p{
+    padding-left: 40px;
+    font-size: 1.5rem;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.div2 img{
+   
+    justify-content: right;
+    background-size: cov;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;  
+}
+
+.list{
+    padding: 4px;
+}
+
+.other{
+    padding-top: 45PX;
+    height: 270PX;
+    padding-left: 30%;
+    color: white;
+    background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+}
+
+.skill{
+    padding-left: 30%;
+    color: white;
+    height: 255px;
+      background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+}
+
+.about{
+    padding-top: 40PX;
+    padding-left: 40PX;
+    font-size: 1REM;
+    color: white;
+    height: 290px;
+    background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+}
+
+.contact{
+    padding-top: 40PX;
+    padding-left: 40PX;
+    font-size: 1REM;
+    color: white;
+    height: 290px;
+    background: linear-gradient(to right, #04050a, #173a4b, #2c5364);
+}
+.contact a {
+    color: #00bfff;
+    text-decoration: none;
+}
+
+
+
